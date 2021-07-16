@@ -1,0 +1,22 @@
+{
+  "name": "aws-three",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meanagha/AWS-THREE.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meanagha/AWS-THREE/issues"
+  },
+  "homepage": "https://github.com/meanagha/AWS-THREE#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
